@@ -1,2 +1,2 @@
 # Registration_form
-Registration Form using React and yup validation.
+Registration Form using React JSX
